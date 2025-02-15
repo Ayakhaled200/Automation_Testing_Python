@@ -1,0 +1,12 @@
+Field,Provided Input,Error Message
+First Name,Ay,First Name 'Ay' is invalid. It should only contain letters and be between 3 and 30 characters long.
+First Name,Ay,Invalid first name
+Last Name,Kh,Last Name 'Kh' is invalid. It should only contain letters and be between 3 and 30 characters long.
+Last Name,Kh,Invalid last name
+Gender,,No gender selected
+Department,,No department selected
+Username,ay,"Error: Username 'ay' is invalid. It should be 8-30 characters long and contain only letters, digits, '.', '_', or '-'."
+Password,1234,Error: Password is invalid. It must be at least 8 characters long.
+Confirm Password,87654321,Error: Password and confirm password do not match.
+Email,test_email,Error: Email 'test_email' is invalid.
+Contact Number,0110057159,Error: Contact number '0110057159' is invalid. It must start with '+' and contain exactly 11 digits.
