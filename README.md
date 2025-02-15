@@ -22,5 +22,4 @@ headway_2024_selenium_<Your Name>/
 This project is for learning purposes and follows open-source best practices.
 
 ## Author
-<Aya Khaled>
-
+Aya Khaled
